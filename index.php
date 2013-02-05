@@ -4,43 +4,71 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>The Grant-Pattishall Award</title>
 <style type="text/css">
-body { margin-top: 68px; text-align: center; margin-bottom: 100px; }
-h1 {  margin: 0px 0 40px 0px; font: 42px Georgia; color: #40262a; }
-p { margin: 15px 0 15px 0; font: 22px Georgia; color: #40262a; }
-p.prev { margin-top: 40px; font-size:20px; line-height: 28px;}
-span.u { text-decoration: underline; font-weight: bold; }
-a {color:#027499; }
+a {
+color:#027499;
+}
+
+body { 
+margin-top: 68px;
+text-align: center;
+margin-bottom: 100px;
+font-family: Georgia;
+font-size: 20px;
+color: #40262a;
+}
+
+h1 {
+margin: 0px 0 40px 0px;
+font-size: 200%;
+color: #40262a;
+}
+
+h2 {
+text-decoration: underline;
+}
+
+p {
+margin: 15px 0;
+font-size: 120%;
+}
+
+p.winners {
+margin-top: 40px;
+font-size: 110%;
+line-height: 28px;
+}
+
+ul {
+list-style: none inside;
+}
 </style>
 </head>
 <body>
 
-
 <h1>The Grant-Pattishall Award</h1>
 
-<img src="4075887842_a4597a01e3.jpg" width="500" height="375" />
-
+<p><img src="4075887842_a4597a01e3.jpg" width="500" height="375" alt="The Grant-Pattishall Award" /></p>
 <p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks flickr.com in the most spectacular way.</p>
 
-<p class="prev">
-	<span class="u">2013 Nominees</span><br />
-	&hellip;<br />
-	<br />
+<h2>2013 Nominees</h2>
+<ul id="nominees">
+	<li>Feb: Matt Jennings</li>
+	<li>Feb: Tague Griffith</li>
+</ul>
 
-	<span class="u">Previous Winners</span><br />
-	2012: Gil Raphaelli<br />
-	2011: Ben Freeman<br />
-	2010: Daniel Bogan<br />
-	2009: Kellan Elliott-McCrea<br />
-	2008: Myles Grant<br />
-	2007: Dathan Pattishall<br />
-	2006: Myles Uyema<br />
-	2005: Cal Henderson<br />
-	2004: Cal Henderson<br />
-	2003: Cal Henderson<br />
-</p>
-
-
-
+<h2>Previous Winners</h2>
+<ul id="past_winners">
+	<li>2012: Gil Raphaelli</li>
+	<li>2011: Ben Freeman</li>
+	<li>2010: Daniel Bogan</li>
+	<li>2009: Kellan Elliott-McCrea</li>
+	<li>2008: Myles Grant</li>
+	<li>2007: Dathan Pattishall</li>
+	<li>2006: Myles Uyema</li>
+	<li>2005: Cal Henderson</li>
+	<li>2004: Cal Henderson</li>
+	<li>2003: Cal Henderson</li>
+</ul>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -54,4 +82,3 @@ pageTracker._trackPageview();
 
 </body>
 </html>
-
