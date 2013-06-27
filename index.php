@@ -52,6 +52,7 @@ list-style: none inside;
 
 <h2>2013 Nominees</h2>
 <ul id="nominees">
+	<li>Jun: Stefano Bertacchi</li>
 	<li>Feb: Matt Jennings</li>
 	<li>Feb: Tague Griffith</li>
 </ul>
