@@ -55,6 +55,8 @@ list-style: none inside;
 	<li>Jun: Stefano Bertacchi</li>
 	<li>Feb: Matt Jennings</li>
 	<li>Feb: Tague Griffith</li>
+	<li>July: Sean Perkins</li>
+	<li>July: Peter Norby</li>
 </ul>
 
 <h2>Previous Winners</h2>
