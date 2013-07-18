@@ -57,6 +57,7 @@ list-style: none inside;
 	<li>Feb: Tague Griffith</li>
 	<li>July: Sean Perkins</li>
 	<li>July: Peter Norby</li>
+	<li>July: Richard Bing-Wo</li>
 </ul>
 
 <h2>Previous Winners</h2>
