@@ -50,12 +50,8 @@ list-style: none inside;
 <p><img src="4075887842_a4597a01e3.jpg" width="500" height="375" alt="The Grant-Pattishall Award" /></p>
 <p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks flickr.com in the most spectacular way.</p>
 
-<h2>2013 Nominees</h2>
-<ul id="nominees">
-	<li>Jun: Stefano Bertacchi</li>
-	<li>Feb: Matt Jennings</li>
-	<li>Feb: Tague Griffith</li>
-</ul>
+<h2>2013 Winner</h2>
+<p><strong>Matt Jennings!</strong></p>
 
 <h2>Previous Winners</h2>
 <ul id="past_winners">
