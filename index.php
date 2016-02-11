@@ -40,6 +40,7 @@ line-height: 28px;
 
 ul {
 list-style: none inside;
+padding: 0;
 }
 </style>
 </head>
@@ -50,26 +51,16 @@ list-style: none inside;
 <p><img src="4075887842_a4597a01e3.jpg" width="500" height="375" alt="The Grant-Pattishall Award" /></p>
 <p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks flickr.com in the most spectacular way.</p>
 
-<!--
-<h2>2013 Nominees</h2>
-<ul id="nominees">
-	<li>Jun: Stefano Bertacchi</li>
-	<li>Feb: Matt Jennings</li>
-	<li>Feb: Tague Griffith</li>
-	<li>July: Sean Perkins</li>
-	<li>July: Peter Norby</li>
-	<li>July: Richard Bing-Wo</li>
-</ul>
--->
-
-<h2>2013 Winner</h2>
-<p><strong>Matt Jennings</strong></p>
+<h2>2015 Winner</h2>
+<p><strong title="Endless loop">Chinmay Kini</strong></p>
 
 <h2>Previous Winners</h2>
 <ul id="past_winners">
-	<li>2012: Gil Raphaelli</li>
-	<li>2011: Ben Freeman</li>
-	<li>2010: Daniel Bogan</li>
+	<li title="Alice/Marci">2014: Srinivasan Singanallur</li>
+	<li title="Bitfield, minefield">2013: Matt Jennings</li>
+	<li title="Infinite recursion">2012: Gil Raphaelli</li>
+	<li title="Yammer bonus">2011: Ben Freeman</li>
+	<li title="10,000 deletes">2010: Daniel Bogan</li>
 	<li>2009: Kellan Elliott-McCrea</li>
 	<li>2008: Myles Grant</li>
 	<li>2007: Dathan Pattishall</li>
