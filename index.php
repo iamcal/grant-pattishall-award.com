@@ -52,7 +52,7 @@ padding: 0;
 <p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks <a href="https://www.flickr.com">flickr.com</a> in the most spectacular way.</p>
 
 <h2>2016 Winner</h2>
-<p><strong title="Data center: You know shit is bad when Ruppel skips a Chieftan lunch.">Jeremy Ruppel</strong></p>
+<p><strong title="Data center: You know shit is bad when Ruppel skips a Chieftain lunch.">Jeremy Ruppel</strong></p>
 
 <h2>Previous Winners</h2>
 <ul id="past_winners">
