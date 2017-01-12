@@ -8,7 +8,7 @@ a {
 color:#027499;
 }
 
-body { 
+body {
 margin-top: 68px;
 text-align: center;
 margin-bottom: 100px;
@@ -49,13 +49,14 @@ padding: 0;
 <h1>The Grant-Pattishall Award</h1>
 
 <p><img src="4075887842_a4597a01e3.jpg" width="500" height="375" alt="The Grant-Pattishall Award" /></p>
-<p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks flickr.com in the most spectacular way.</p>
+<p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks <a href="https://www.flickr.com">flickr.com</a> in the most spectacular way.</p>
 
-<h2>2015 Winner</h2>
-<p><strong title="Endless loop">Chinmay Kini</strong></p>
+<h2>2016 Winner</h2>
+<p><strong title="Data center: You know shit is bad when Ruppel skips a Chieftain lunch.">Jeremy Ruppel</strong></p>
 
 <h2>Previous Winners</h2>
 <ul id="past_winners">
+	<li title="Endless loop">2015: Chinmay Kini</li>
 	<li title="Alice/Marci">2014: Srinivasan Singanallur</li>
 	<li title="Bitfield, minefield">2013: Matt Jennings</li>
 	<li title="Infinite recursion">2012: Gil Raphaelli</li>
