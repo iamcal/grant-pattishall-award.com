@@ -1,4 +1,4 @@
-<?
+<?php
 	$date_rx = "!^(\d{4})-(\d{2})$!";
 
 	list($this_y, $this_m) = explode('-', date('Y-m'));
@@ -82,7 +82,7 @@ body {
 <body>
 
 <table border="1">
-<?
+<?php
 	foreach ($rows as $row){
 
 		echo "<tr>\n";
@@ -111,7 +111,7 @@ body {
 </table>
 
 <p>Missing dates:<br />
-<? foreach ($odds as $line) echo " * ".HtmlSpecialChars($line)."<br />"; ?>
+<?php foreach ($odds as $line) echo " * ".HtmlSpecialChars($line)."<br />"; ?>
 </p>
 
 </body>
