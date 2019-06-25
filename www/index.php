@@ -51,11 +51,12 @@ padding: 0;
 <p><img src="4075887842_a4597a01e3.jpg" width="500" height="375" alt="The Grant-Pattishall Award" /></p>
 <p>The Grant-Pattishall Award is given yearly to the individual<br />who breaks <a href="https://www.flickr.com">flickr.com</a> in the most spectacular way.</p>
 
-<h2>2017 Winner</h2>
-<p><strong title="425mb SOHP">Alex Seville</strong></p>
+<h2>2018 Winner</h2>
+<p><strong title="Deployr race condition releasing surprise new features">Louis Buchbinder</strong></p>
 
 <h2>Previous Winners</h2>
 <ul id="past_winners">
+	<li title="425mb SOHP">2017: Alex Seville</li>
 	<li title="Data center: You know shit is bad when Ruppel skips a Chieftain lunch.">2016: Jeremy Ruppel</li>
 	<li title="Endless loop">2015: Chinmay Kini</li>
 	<li title="Alice/Marci">2014: Srinivasan Singanallur</li>
